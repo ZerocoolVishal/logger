@@ -4,7 +4,7 @@ A simple way to log to console
 ## Installation
 
 ```
-import { logger } from "../index";
+import { logger } from "zc-logger";
 
 logger("info", "Hello World");
 logger("warn", "Hello World");

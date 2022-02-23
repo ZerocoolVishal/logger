@@ -1,11 +1,22 @@
 {
-  "name": "logger",
+  "name": "zc-logger",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple logging utility",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZerocoolVishal/logger.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "zerocoolvishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZerocoolVishal/logger/issues"
+  },
+  "homepage": "https://github.com/ZerocoolVishal/logger#readme"
 }
