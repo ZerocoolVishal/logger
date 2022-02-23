@@ -1,7 +1,7 @@
-##What is this?
+## What is this?
 A simple way to log to console
 
-##Installation
+## Installation
 
 ```
 import { logger } from "../index";
