@@ -1,5 +1,5 @@
 ## What is this?
-A simple way to log to console
+A simple way to log into the console
 
 ## Installation
 
